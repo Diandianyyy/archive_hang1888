@@ -1,0 +1,1010 @@
+Package: com.be-huge.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.38.1
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 780
+Depends: firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.be-huge.insulation_0.1.38.1_iphoneos-arm64e_75d9920232145bae39c8a3217091e8cb3dec60d0074df265fbfa86a7d44e19c9.deb
+Size: 57024
+MD5sum: 548758f431fed3ae2df216bb491d6c62
+SHA1: fd40899f9d37489c30a01a79d245d80c20af9f45
+SHA256: 75d9920232145bae39c8a3217091e8cb3dec60d0074df265fbfa86a7d44e19c9
+SHA512: faec1fb9a37f317941c6c17f743fbfa1886eb3454de2e9b4c76c1e5f39e61d4f596800d72c8fb316d48c4db429164c43d5e8c5e7dfbd85b6b57b061795f17972
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.hang.365
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 84
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.365_1.0.1_iphoneos-arm64_75e9d4374e8b69c2121ac70f7da4162de303d76c7dce39395b3ccdc2cc16a292.deb
+Size: 5948
+MD5sum: 60074a8a5da11979918a889c955f6277
+SHA1: 399849a9f4497fe57e01f1a9cb76a05a107f9555
+SHA256: 75e9d4374e8b69c2121ac70f7da4162de303d76c7dce39395b3ccdc2cc16a292
+SHA512: 756261ec56930a6db328fa98e0264afb91474bb4bdee8251d67280f34641a6411e7f1b3af98e7b09aa211407230941052efaf0d48807c45bdd1f670da653c01a
+Description: 测试版本；3.24.4
+Name: 航のicam365去广告
+Author: 航
+
+Package: com.hang.bdwp
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.bdwp_1.0.1_iphoneos-arm64_faa2f61c1183edd6654132b0a483ac0699d1f72614dd6d04d03b170da80a658d.deb
+Size: 15316
+MD5sum: 2a619e62663cf992e544c96adebe982d
+SHA1: 6faa2bfeddc7cd814f63dcee1aecfd1514d597d2
+SHA256: faa2f61c1183edd6654132b0a483ac0699d1f72614dd6d04d03b170da80a658d
+SHA512: 2a4eb9c2cb0132b402461861eea768dfc5ffa23de6137925ad19af540dc9e211761ff30175f59197a65d5c36944f9cccfa51366cb2ec7bf1c1f28d58e10af7e4
+Description: 最新版本测试
+Name: 航の百度网盘去广告
+Author: 航
+
+Package: com.hang.cmccad
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 广告
+Maintainer: 航
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.cmccad_1.0_iphoneos-arm64_2f62dc5d82c98e6cebee6e75b08692edca100c56ff2d9bd771fa572a909b4f2c.deb
+Size: 8130
+MD5sum: fe8a8d6f04488d79f4cfa7df1fd08ad9
+SHA1: 8818c8e82dc34b814f535098b4030891ac99b71b
+SHA256: 2f62dc5d82c98e6cebee6e75b08692edca100c56ff2d9bd771fa572a909b4f2c
+SHA512: 44a6176e8eadc3c4c000a64ab71fc151cf0016ea754bb67f44aa035c50e5ecbd87eaafd031174ca0c85d5bca45fbe3d674ab6bd254c5c6138f7344fb78da5e63
+Description: 测试版本；12.5.2
+Name: 航の中国移动去广告
+Author: 航
+
+Package: com.hang.cmccad
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 广告
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.hang.cmccad_1.0_iphoneos-arm64e_6e24f1f70413510138f69ca5ed3526f4e7c43ed181d6ea5a843a07935efaa830.deb
+Size: 8366
+MD5sum: c6d85bb958366f82f13455727691454b
+SHA1: 74f8908d54180b4368a6e52c2f14d451b681e174
+SHA256: 6e24f1f70413510138f69ca5ed3526f4e7c43ed181d6ea5a843a07935efaa830
+SHA512: 4b1b46370d419b835bfb68540d771ec0a5521123f2e09db893e91b0f32d8e3fad5cbe4b87b77ec8fd8039629581d91f34d24ad4b6f7be331824d0b564beebeea
+Description: 测试版本；12.5.2
+Name: 航の中国移动去广告
+Author: 航
+
+Package: com.hang.douyinclockdock
+Architecture: iphoneos-arm64e
+Version: 0.0.64
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1228
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.hang.douyinclockdock_0.0.64_iphoneos-arm64e_5646cad58ac4a281873d8584c1f5f52b0f509956f6d7b6232dedded581708a3c.deb
+Size: 319992
+MD5sum: e5ddbd34dc8669f3a1d79f213cd77263
+SHA1: 693f28e549ec194397dfb1b64daf549c8064f61e
+SHA256: 5646cad58ac4a281873d8584c1f5f52b0f509956f6d7b6232dedded581708a3c
+SHA512: be22b44e35c421b71b0b5d22a4b84a52953c27db9f7e633604cd4182a1ca4555141ba1904fddf581ca0d483502a3cc4e5552ed27a01af3a24390746040b2e65a
+Description: dyyy魔改版
+Name: 抖音Pro
+Author: 航
+
+Package: com.hang.jxedtad
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.jxedtad_1.0_iphoneos-arm64_131d763963df02145f351987a0fd6c24b486b883733ea26a05940f67e488ba3c.deb
+Size: 12228
+MD5sum: f8a44ea5bd879fb39c7ccb2c4b20e109
+SHA1: c587c5b88622ca3f5fd3bc67bc2d8f3fb5c8d3c0
+SHA256: 131d763963df02145f351987a0fd6c24b486b883733ea26a05940f67e488ba3c
+SHA512: c7b649d808d1c0c11042b8d6f1b98ffc08a0e77812a70e0cab43706d4866091d67454bf4f20a474ad3ee41cc4eb21a4e03d4ab5b46a18b591af1ed4bc08dcdc7
+Description: 测试版本；18.6.1
+Name: 航の驾校一点通去广告
+Author: 航
+
+Package: com.hang.jxedtad
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.hang.jxedtad_1.0_iphoneos-arm64e_223192ed412916955fa872c6b25ce3fcf17657ed86ac4d08ef2964e3f6695074.deb
+Size: 12432
+MD5sum: 2f419ecbb5077f8667faf30756dd4b13
+SHA1: 09ff75d6c01065e9eb3d8f493a736c5a0741fa51
+SHA256: 223192ed412916955fa872c6b25ce3fcf17657ed86ac4d08ef2964e3f6695074
+SHA512: 041b5f7125d9a981cb1faf626f097f5ca4c30dd6b1ad07716dec755e9c264115bbd7642e555dfbe2990e74a79ba34d19eeca523613030f53549572e837f11f44
+Description: 测试版本；18.6.1
+Name: 航の驾校一点通去广告
+Author: 航
+
+Package: com.hang.kaiguan
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1820
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.hang.kaiguan_2.3_iphoneos-arm64_073142ba2be7236e9c57db4f998123dcd3424c8bf8ac06dfb5efe9aebeed113d.deb
+Size: 422814
+MD5sum: 86b4ccf0012829fefa68f6134d1b625a
+SHA1: 68099b0f95190c150c43054caa5c80c1d3b20dcb
+SHA256: 073142ba2be7236e9c57db4f998123dcd3424c8bf8ac06dfb5efe9aebeed113d
+SHA512: 80e0c20437834967c32fabae4d61d49848c44b973a2026eb49a8856a6c46610834ac1fc3d216901de82ce2d7ea8c776e9a9b37c0afe1fa3fc9beeeb3501e4290
+Description: 自用开关，有问题请卸载。
+Name: 航の开关
+Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
+Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
+Author: 航
+
+Package: com.hang.kaiguan
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 972
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.hang.kaiguan_2.3_iphoneos-arm64e_8844efd77173c7910ce7d885ac769c89e8281791fbd1e3330b1aa2ac0a8086fc.deb
+Size: 304814
+MD5sum: d5d63eebfb550cf7490391f8b40883d4
+SHA1: 282bca30d55b8821899023fcdb61edaf76c544c9
+SHA256: 8844efd77173c7910ce7d885ac769c89e8281791fbd1e3330b1aa2ac0a8086fc
+SHA512: 98fc59397f4e0f387821121bf4cb74a9f61fb2ce6a6f1b6d13687647d1cfb6155719c85b64af561826d9e26b91ba0d0f097fad9d72f20b41c136202f1fe7caf0
+Description: 自用开关，有问题请卸载。
+Name: 航の开关
+Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
+Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.5.6
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1720
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.5.6_iphoneos-arm64_9b36c1e0f23a5a7b3594857179c227612c7e17d3b327e68229c2fef850a92da0.deb
+Size: 486674
+MD5sum: 7d051641d2bb87d008bc76a533eddf51
+SHA1: 47b99f8d43280fc202a59c42613a718a90b8b7c9
+SHA256: 9b36c1e0f23a5a7b3594857179c227612c7e17d3b327e68229c2fef850a92da0
+SHA512: c1a89f34da4b649bd97f5645c8a4a37d070770c703570a6ae1779a2f001aa5b3223ec70275e8c28e92e744a0500b2cd3b43a09bf8f51aff17ea530bd19bfcac3
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.5.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3160
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.5.7_iphoneos-arm64_7c4100c2c6817fb6d773568b5cd624f91eb348624c0822461be9a6d4001d0a71.deb
+Size: 669132
+MD5sum: b50009075a3d5b0f3e6f0ac7db40009a
+SHA1: b13ca3f8e5a0faf63f75a51e4e76b084e7d8e0f8
+SHA256: 7c4100c2c6817fb6d773568b5cd624f91eb348624c0822461be9a6d4001d0a71
+SHA512: 2f122d5c09a34750354fe61e6de1492456bc1e26241ab0d526228c608b3499ef3a90d2037a60c7afac6819fab3c5061e1a3d4776050e79e0a3f45f2d4766af6d
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.5.8
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3160
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.5.8_iphoneos-arm64_89e7b7bcefc774d22ecc287013fe6a3887ad4c576788002a1709d7ca2673cfc2.deb
+Size: 668724
+MD5sum: bb84f8563e6ec73322b95606e12c146d
+SHA1: 0c81d19f7c8aea5811a5082fc7134877cc0752b1
+SHA256: 89e7b7bcefc774d22ecc287013fe6a3887ad4c576788002a1709d7ca2673cfc2
+SHA512: 2a1dda890d33f63de831dd43a84d57ff149c410465382cb00277867db8c7266de106a1ef0f055e92230a323af678b9e750fc6d1c0c7b0a506c62543d39f78c51
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.5.9
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3160
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.5.9_iphoneos-arm64_e0f10987358ca1e5e184f925989574663867a7a845c61ff78a8b368cc1b94865.deb
+Size: 669352
+MD5sum: 49276349801966eb925a029a7175d1ac
+SHA1: 6500dbb707ce99700ac489f7a6cfc966feb81c2c
+SHA256: e0f10987358ca1e5e184f925989574663867a7a845c61ff78a8b368cc1b94865
+SHA512: 1d642155b881311b3fe0b1240eacccb8cc62e7b6bd2129ee8965d81faf0ff2b416859415b471409b1da21bc9f07eee16e3a5595ab3d5c4231af8fbfa001869ee
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3160
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.0_iphoneos-arm64_ad40e5fad5bd2d951ccc65a0102eedd4da03fddc9f418cc3405b7536b5406cb5.deb
+Size: 669020
+MD5sum: a9998ab2d28094dd4834ee16e513f21b
+SHA1: be64c6b2d5ff200cec8da0a2cf526c20fd9ccbc3
+SHA256: ad40e5fad5bd2d951ccc65a0102eedd4da03fddc9f418cc3405b7536b5406cb5
+SHA512: d462ecdae75a386cd4b9831d04a5ce124dd86a27c2e2cf2e68178f1630748d7f7de77cec3ca04e80dae52e6775f502ad93f0678ace807db0106e7cfeb520bca0
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3160
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.1_iphoneos-arm64_4efead8cf241e15fd23e2d084597d8f9e73420c7c787c5830ecf5a8baa84d07f.deb
+Size: 670450
+MD5sum: c12034f62bf6e7ee6bfcac741d03b8f8
+SHA1: f70b360cf0654c3b8fd0b49be11d912402f20e58
+SHA256: 4efead8cf241e15fd23e2d084597d8f9e73420c7c787c5830ecf5a8baa84d07f
+SHA512: 4fa75279daec1999d407e8cb0c937e92557abab95fb57c1b6b0582a717ee6a82b787fbfe5976af6fa3889cbb76af49404640c3d96e191544b6312b707bf621eb
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3160
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.2_iphoneos-arm64_fea3c5d2203f55c939e4aef86a44d1e8c5c2ad430b6c17e4d9e2a5b6a827f72a.deb
+Size: 670880
+MD5sum: 65c605bffba48fb2fe9f60d11d2e711b
+SHA1: 72c933866717260feb943de9204f97278c255bbe
+SHA256: fea3c5d2203f55c939e4aef86a44d1e8c5c2ad430b6c17e4d9e2a5b6a827f72a
+SHA512: 069443899b6b41737326865d9b3f669c81235b344299f84c6fca5aff04530f8ecb4db75b94b352710974b7960ef26e3a897d713f5b3a3868c8ae5c5e8b63220c
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.3
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3164
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.3_iphoneos-arm64_432a1b2c1de4ffffffb958161a08d8eb3110500c3e599eb3ecb71294a64f026f.deb
+Size: 669264
+MD5sum: a3824cd255ec5dd5f8e4d993a09d9b77
+SHA1: 77b63dc365d8656ff6d5d61bccddfca45ebd79ef
+SHA256: 432a1b2c1de4ffffffb958161a08d8eb3110500c3e599eb3ecb71294a64f026f
+SHA512: 1dee64e07e6668a79b5b018180fb7fec8d7e57b5590993b6cb831fbb472f95009de86f6e8990fe053b4c2cbe640ee75952aa49861d71261cb80e567a2f1fe439
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.5
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3164
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.5_iphoneos-arm64_c27310956bc213958a9b7251e8cac3320b48d0cb31aebc19afe873d521133d9a.deb
+Size: 668844
+MD5sum: dfa4c0f57f47a9ca896ed2312245cbd4
+SHA1: c4cb6ec2b3e374a03bdce87773a6db37a027b51c
+SHA256: c27310956bc213958a9b7251e8cac3320b48d0cb31aebc19afe873d521133d9a
+SHA512: e0fbb276f65c7f531097a688a96b05e6680d2f1c84ba222f19f6c6995010eb93dbc008f3ae45531ec1f2c0d3fdb3e28005929ec5aa85788332c37fd06bf5c3cd
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.6
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3196
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.6_iphoneos-arm64_948d649a7f3f6dd1644d9be98bcf130688fe64040e6985e6c5f1c5abd1cd4518.deb
+Size: 667938
+MD5sum: 463525ead3ccd971f6fbcb418b02cb65
+SHA1: d57e824cfc330038a694e660cb41b32f56909541
+SHA256: 948d649a7f3f6dd1644d9be98bcf130688fe64040e6985e6c5f1c5abd1cd4518
+SHA512: 4c85aa3bd6de5c89c474b445783da4c5fdf766e1ecfb7d57a9b980b3a6e7747195d74f7673c891028d6045e3a994c0bf0a0c443e07069dad5bedcfca97f03afa
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3072
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.7_iphoneos-arm64_63e298fad53ede613f3d6bf888e93af57936e739f9c8fad45c28a8e9b16088f5.deb
+Size: 638150
+MD5sum: 68538f3b8d1e9d473bd3fac4d6a1bf59
+SHA1: 8fee5fd7d5600cb29c9ee7fada1e940a2bf4cc2e
+SHA256: 63e298fad53ede613f3d6bf888e93af57936e739f9c8fad45c28a8e9b16088f5
+SHA512: 7ab9bf3bedf489daef04fb9b9c7b3942768490e3a0b12e9c3d02839a32cbd103a9b7062ed19bf10464d31e2063ead0cb2cac3c3ef74a19ca47d7cf5ff5363efb
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.8
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.8_iphoneos-arm64_4ab21545213d534979ad6831d0d73538a321b9a015c796a8c7d12496296a1464.deb
+Size: 639832
+MD5sum: 5f2f9cd0881d0754e9f55bb6cd3061b8
+SHA1: a04f10dd1b31310357825ef1642f869450d05439
+SHA256: 4ab21545213d534979ad6831d0d73538a321b9a015c796a8c7d12496296a1464
+SHA512: fabb7cb06ad2d28f350cfca638cc9938ddbee93c2074a66dcd3f2374f205dc860ef3646cd538b632826b4e36e156afdab639086a2e3a368c51587552807fec2d
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.6.9
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.6.9_iphoneos-arm64_c8540c7eecc1ceaea5d968bb03e13d6c5aac214f5554ded1899ea645fe0ad12a.deb
+Size: 639744
+MD5sum: 5858109509996e188b795a78cf1e962e
+SHA1: bdd50506d6948ab6aa4171d83044f1c157aa8dbf
+SHA256: c8540c7eecc1ceaea5d968bb03e13d6c5aac214f5554ded1899ea645fe0ad12a
+SHA512: ff75bb9d4b0b7d81ab9e94a46ab3c15338a2315a70c1b858e1aa54df1669dad571653d208a2580ed3b6da088eeba5ed1bb1df6d2268e14697c302045d1308533
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.4.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1720
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.4.1_iphoneos-arm64e_0560eff77f3b479b2b4e3384fd9f5df20be9698d5073984928828d193a0a4e81.deb
+Size: 475690
+MD5sum: 4cd9d205d33889db3f478457989ae9d5
+SHA1: 6dcfba69ba97a7453849970f84adf0553b9bac90
+SHA256: 0560eff77f3b479b2b4e3384fd9f5df20be9698d5073984928828d193a0a4e81
+SHA512: 6b682453df05707e51139da5b6a995901a8aa846709cae928620c17c77e320aa5ec02da64663a521c5496f6f581308af524e919a22a2bb0d1cd1f53a4584898f
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.4.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1720
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.4.2_iphoneos-arm64e_fa7a4019ac219f447b496ffb58c791d937d28c8fa66facef46779c407429648b.deb
+Size: 475296
+MD5sum: a6dff4a62cee21390d2c1be66a929c20
+SHA1: b58bd86adbb53c0328b58902a730ee092dfe2d65
+SHA256: fa7a4019ac219f447b496ffb58c791d937d28c8fa66facef46779c407429648b
+SHA512: a75501784ff07688da592e6b9bb6c37c550e175fde66a10a0ff52dc111e123e994a8b1b6f1b5cd9bd2af29fcc981ee2fef90765a58ff4fd5c2c010c4c6789f85
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.4.3
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3096
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.4.3_iphoneos-arm64e_aeacf41c0850e06444a705e3fb65a3f57f8caeaacefb7f63046d7f7fe573eaed.deb
+Size: 749440
+MD5sum: 6cb012e36cd365df24fcea86cbd5db98
+SHA1: e50b5fae953906e9c577d8acf0d5676aa91c886b
+SHA256: aeacf41c0850e06444a705e3fb65a3f57f8caeaacefb7f63046d7f7fe573eaed
+SHA512: 86cecc33fcac2be3e6d25f37b118b96d15b075b716f4fe9cc74a993f56913d4b981b68cb0268c5a8a519e646ef9e695add58e81e04870449a5a23f995246c772
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.4.4
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3096
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.4.4_iphoneos-arm64e_fdf6e6fd8e1b7c9bdc0fb8464eda6681808fcfc2c8ae9cf8a520ecce49caa355.deb
+Size: 749752
+MD5sum: d68c1e95f125f5bbef41e66d30b4d95f
+SHA1: 07a971f210e92e81ba48ffb427402642ecbfa3a2
+SHA256: fdf6e6fd8e1b7c9bdc0fb8464eda6681808fcfc2c8ae9cf8a520ecce49caa355
+SHA512: 4c1bf76db8373b0edd80a64d1f0ed038190d28b022569b9685e98af614076d7b9f822f2b8325a0a33558a256aacdf15775e679544a2bc36c698f4334867dcf80
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.4.8
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3116
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.4.8_iphoneos-arm64e_61e46bdb69dfb1b8b65fdcf0420ea53c6c0f746707da59dcc489c2930bd0ef02.deb
+Size: 756620
+MD5sum: 86d5dc125bd72435a8868485704a1bbc
+SHA1: a856527f6e4aa760b581ba335d378e29144a12d4
+SHA256: 61e46bdb69dfb1b8b65fdcf0420ea53c6c0f746707da59dcc489c2930bd0ef02
+SHA512: c10a9fcbf7933e78a69f5bc05222aa2e3ba2c7aa55ef42f140fe813a92e94c21e61ef86608436e266fd4042f7e022537cb702ef3a57db7e2c3b3acb141d2fd0a
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.5.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3144
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.5.0_iphoneos-arm64e_7fec29d94b72613a8c907c6c4e6327460db549663f7323cac12d6aad88f1afda.deb
+Size: 760522
+MD5sum: 6cd84f52b375e6198ac046ae6a2cf7d0
+SHA1: bdde9ee16f0c426ddfecb47932a856d64c0ff21c
+SHA256: 7fec29d94b72613a8c907c6c4e6327460db549663f7323cac12d6aad88f1afda
+SHA512: 353db3b0f6d03a0ec5517c0eb76bc13644a19ed71c5b61d1cb1146221fe2dea33c59fd85e97f7ec3674be843c224805aa236e63f9edc09e2e385fa601a90d039
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.5.5
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.5.5_iphoneos-arm64e_7bae1e1680c1c5ed849ed61ed9ced5386b618db7bb231a70ea0528a3241df635.deb
+Size: 487806
+MD5sum: eb659f43c095ac0b87743d303d1efcb4
+SHA1: ad906ba5e5e3186eb1c6b7a2966086e5c1829d1a
+SHA256: 7bae1e1680c1c5ed849ed61ed9ced5386b618db7bb231a70ea0528a3241df635
+SHA512: c23b9acb5fdbc7c4c46c24e911f3bf1255a526335c47935780cf4b2e4c2eb4d62ebe9362a97367363489581b6eba9a019403f10c76c5b5b69bfc66c25a85b43d
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.5.6
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.5.6_iphoneos-arm64e_f855ba9945bd52588f4573d39c37f958c8c28ab84fcdf9f8a471ca2547e54ca9.deb
+Size: 487964
+MD5sum: 463f03187b1aaa07263170cbde13453e
+SHA1: 96840fb0315331a8c9d8635e84bf56128855ba43
+SHA256: f855ba9945bd52588f4573d39c37f958c8c28ab84fcdf9f8a471ca2547e54ca9
+SHA512: 7800ebe47d9b4b039e6b6004b0c7a7f7f403dd92a217fcf217c4e0a0ffb5a1a552c126e1fd3ce9e436d208c1860c8fa99b823e0bce5f3c641ba2b0026aa6ba2f
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.5.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.5.7_iphoneos-arm64e_e434a91027202523b3169cac46adfbd7580f12835f93005b186e1eb63d7fce3c.deb
+Size: 488064
+MD5sum: be6901c58d19d05db271e7a9da77ff96
+SHA1: 402ce904d1a54af8a3acef349c8498543039dbd2
+SHA256: e434a91027202523b3169cac46adfbd7580f12835f93005b186e1eb63d7fce3c
+SHA512: 3dedf473d2d874b14dab93e46888294f98a6941c5e543a2b91eeeadc57e57d4872577b68ff28a06536eb86e83a1e2f08e4427a819895a02d00bff0e2d640844c
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.5.8
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.5.8_iphoneos-arm64e_bc72b2ecd1c5fa8ac0038c3cc1b24c287d4f51cad57ce9c80d9a11801abbb698.deb
+Size: 487784
+MD5sum: 48adcf14ce6fd66ff0c851d501d4ed15
+SHA1: 9a075714419a8427cc5e02166729e5f97984d313
+SHA256: bc72b2ecd1c5fa8ac0038c3cc1b24c287d4f51cad57ce9c80d9a11801abbb698
+SHA512: 7cea07fd39df0488322c030bf57c33dde1b32fc4cf19630cc0c245797205a13bdd8774f01145acde8405a43c54cf2deb41ec8511b055915ae0bf95f4b468bfb7
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.5.9
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.5.9_iphoneos-arm64e_21e8002a9c1aecf58611e40ddadc64564d8e11baa9439e63723efbc16c7d32bc.deb
+Size: 487838
+MD5sum: 3d39aa8f55cba76305ca31cef58a1046
+SHA1: 106d414a10b4e7259765763ea15dd35709849568
+SHA256: 21e8002a9c1aecf58611e40ddadc64564d8e11baa9439e63723efbc16c7d32bc
+SHA512: 53218a38eddff5e0e86d5eba5a1478130fad6dbc8774a1a6372cbbd0c7df864eb68495d3d47e2d4a0804a613dfd259d251bfe32917e4f30c6cf25d0011905e4e
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.0_iphoneos-arm64e_af0ad16cae4bf0123f736bd01e974c011b9c102e75b29d852ec2e9e44faa5192.deb
+Size: 488182
+MD5sum: a0c9c9c032da81bf3848aeadab83f31f
+SHA1: 2f8a7ae3f8c418233dc76663bda7951d2989bc96
+SHA256: af0ad16cae4bf0123f736bd01e974c011b9c102e75b29d852ec2e9e44faa5192
+SHA512: 86d5147db8f0d5afc48a3e3fadb35f689368b655361d012427057806c014e34e1578cb1540c4a8d837077e4ec6d90d775d1968dc5b9cd22135fb3bf32e0ac4a3
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.1_iphoneos-arm64e_263b77d00de9a4b61d354c8a40b4083804c672f1bff38a666c0cc1cdf9fd01e9.deb
+Size: 488804
+MD5sum: b9df05799b2f9f7a9a1fb5c86c0758b1
+SHA1: 6062fd368e77206e5b9b0af1cf65bad8ba78f43a
+SHA256: 263b77d00de9a4b61d354c8a40b4083804c672f1bff38a666c0cc1cdf9fd01e9
+SHA512: 4280a7421754c06d7eff6bc6d0a330e1d16b9d833c97073eb3fb69267f0f552ad68828765f35cb2c1daec599368df33a2671e712d7c9d96aefc7a0cd27862693
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.2_iphoneos-arm64e_d114bd55c9aeb1d631c02a71b41b4f49252417697badaa0ccb07568b5f211b18.deb
+Size: 489234
+MD5sum: 9e3569118d0f95f515f0c902ddfb013d
+SHA1: b2e448b132e71dc7dd9fefe717cc3098b59b0629
+SHA256: d114bd55c9aeb1d631c02a71b41b4f49252417697badaa0ccb07568b5f211b18
+SHA512: bb54cb40ea429d8024e8cc06248e70dea0d85d745350ed49ad6d92a80a0ab473151496cf725548d5fe8efd9de54b351ecd39c4048cb93db714f52765d0ad30dc
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.3
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.3_iphoneos-arm64e_d5dabfe46041867a98f9bb5b828fe80917ece79138e7b153c266334b4f5193b6.deb
+Size: 489244
+MD5sum: e2ebdcecbee1b6c8f701aad499cc4553
+SHA1: 8c5b5664843c1e99650bc8b6dd3b0f7e31496f26
+SHA256: d5dabfe46041867a98f9bb5b828fe80917ece79138e7b153c266334b4f5193b6
+SHA512: 9240883d8405826b1c9a99eac9cdee574a172775ba46cfd0824a31ca996169128e63de52eee05eba653616d89c5d4acfc97989104f8529799309935a2e230579
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.5
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.5_iphoneos-arm64e_c089fac120176645e7cde5b2498d30914e4f5ce19217401dd45efc431a186adc.deb
+Size: 489480
+MD5sum: 2b50ea77780b1a4c3ebc2ae831bcd67b
+SHA1: a9e9e56d91250e318f8917cfbbc9bd9919a9d05b
+SHA256: c089fac120176645e7cde5b2498d30914e4f5ce19217401dd45efc431a186adc
+SHA512: 338badfae943bcc79ce8504a0258eae890648164970ef2b43cab6fd946287ec09b808e2d1d92278bc02a6df2f1f1dce9df451d973f7f8a234531c58c771fe1d9
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.6
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1752
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.6_iphoneos-arm64e_dbed730749f214d85338dc74883f4f4b3047cf9cc7d00ca0effd714be788c4c9.deb
+Size: 489594
+MD5sum: b1758de071c4736c3982c70effabdc7f
+SHA1: 48d3278a6143b28728bbf6ef2adcca6772f577be
+SHA256: dbed730749f214d85338dc74883f4f4b3047cf9cc7d00ca0effd714be788c4c9
+SHA512: 57979b45efde2bfa246e4deaa35250cf57c2b4bfaa71c43fa08827e241734d7e7bd17c9c31849292c123ed498e61c2b7c147d2c3e88fa41a4d55d65e7915e4b3
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1692
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.7_iphoneos-arm64e_b688564825f11d7a67a5fd3bd7f3290fbb56171c5d04d12cde397bb4cb571448.deb
+Size: 468288
+MD5sum: f1bb7646b0674d3c740b0f5d76973354
+SHA1: 7678ef4cdbc1a6e0e0491363aea371f389076aed
+SHA256: b688564825f11d7a67a5fd3bd7f3290fbb56171c5d04d12cde397bb4cb571448
+SHA512: d0ef481271307d58dc3cb9cf2e76e830f095e1bbd184c7a9e915009118d27bc3d87238da4e003f1479fa375621cd270f82e5604c86bdc8c50ae7f05142bde7ee
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.8
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1712
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.8_iphoneos-arm64e_de49ce8c2822eb54e9316efb2ba2a912efdc416b0fbdeabc4fcb6ee00f4d3d84.deb
+Size: 470438
+MD5sum: ce2bf924bb8da9805daf360ea7fac8a3
+SHA1: 3a2da3f3f605e4fb110be1433ef459643b0a2b3e
+SHA256: de49ce8c2822eb54e9316efb2ba2a912efdc416b0fbdeabc4fcb6ee00f4d3d84
+SHA512: 5a5195379fe9be7c4a67ea3b403a9426569184006f11ebcd25f8941a33bc507db2ceac8b3e105c7a5a5e0d03acebc9df24ac593d2de9dc24078e4f4e66b8a4e4
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.6.9
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1712
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.6.9_iphoneos-arm64e_63a80f44ed8542b70ae35f9878187a2fcae8acd0628d4d897dafef551c9e9fe4.deb
+Size: 469826
+MD5sum: 160fbf104247e6864becde1c7ca202f8
+SHA1: 1ea1a681d74da5e73cd078ebe117833b07630ee4
+SHA256: 63a80f44ed8542b70ae35f9878187a2fcae8acd0628d4d897dafef551c9e9fe4
+SHA512: 9f79b7f83734e68f48da69f1268e1976c288585b5956954e95292b06106577f3162bc2b2b923d3e2c96d003d959c0bd3b1501a6f22e1e396b6ab425076e2a95e
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.ktc
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 128
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.ktc_1.0.1_iphoneos-arm64_c0fe4e1531cf5d67b9fe7ac256df548fc75f4bb4486b30dc0fcc59cf07316796.deb
+Size: 13508
+MD5sum: 71d39b73c1d926053081611d858d252d
+SHA1: 725b83004eec8e9bf79e272a0fa6c44b04c836d5
+SHA256: c0fe4e1531cf5d67b9fe7ac256df548fc75f4bb4486b30dc0fcc59cf07316796
+SHA512: bd189be1bb340caaf918b75238e7d9822f714ed0f91530f9bae484a1f21a2ce05ac8fd64bf0ef513890977dd68ff495d4e4dd52475155aad3a6a981764da1f54
+Description: 最新版本测试
+Name: 航の快题词去广告
+Author: 航
+
+Package: com.hang.qqzaixian
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.qqzaixian_1.0_iphoneos-arm64_5846e3f47b5ecdda0262f6c97ec143473406ea4367810dc44bb193faf3de89ec.deb
+Size: 28938
+MD5sum: 4a0421fec2e88f9eb52c88318a16f355
+SHA1: d6df28fd78560802b533f5765138763132397f0c
+SHA256: 5846e3f47b5ecdda0262f6c97ec143473406ea4367810dc44bb193faf3de89ec
+SHA512: 449593bd7629831012a3e053a26db67922d70bf14f54b15494573c4e57b3a44e46b1079b10c7878e4cabe7b081bb526c5c388667e5e0fe723f10b4164d220d88
+Description: QQ在线模拟，18系列需要正式上线才生效，双指捏合。
+Name: QQ设备模拟
+Author: 航
+
+Package: com.hang.sgsrf
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.sgsrf_1.0_iphoneos-arm64_b88da3a17b66a734843df4b7c619416b4dd2a0d969bdb1f4fcf96467e419768e.deb
+Size: 9596
+MD5sum: f9d765fec3fad8d91e7e7d3bb05ef64d
+SHA1: aa48985511bbcd4734d2002be4130f115a3d188b
+SHA256: b88da3a17b66a734843df4b7c619416b4dd2a0d969bdb1f4fcf96467e419768e
+SHA512: 8c8005b6387b6f892352b754185afe238d030fc6d9a58279fd752fc64fd47203020cf74dd2622c35335feb1cabbfa8654c80874f06daa00ed1e345cf659f3211
+Description: 测试版本；20.11.3
+Name: 航の搜狗输入法去广告
+Author: 航
+
+Package: com.hang.squidgesturepro-ios17fix
+Architecture: iphoneos-arm64e
+Version: 2.3
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Conflicts: com.codex.squidgesture17fix
+Filename: debs/iphoneos-arm64e/com.hang.squidgesturepro-ios17fix_2.3_iphoneos-arm64e_ecb5cb35b8fa79f0cc957c68208d8239fdca79143b227e275589cc62594d99cd.deb
+Size: 14942
+MD5sum: 3c941e0431c92d96b9efee635715cc84
+SHA1: 1ec83df36751496447dab25cdafc7719d9db30d6
+SHA256: ecb5cb35b8fa79f0cc957c68208d8239fdca79143b227e275589cc62594d99cd
+SHA512: ff22369b6e7cae135758d0d5d937f3921b209c80bdbe557b2e3c1a209b629135d984af6dc88d45baa1f847d055cd1201ec52b0c080ed96f6cd46e154cd5acadf
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
+Name: 乌贼手势 iOS 17 补丁
+Author: 航
+
+Package: com.hang.tubiao
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/iphoneos-arm64/com.hang.tubiao_1.0.1_iphoneos-arm64_c6002029a37b833ea5f3188eff1bb2bf2e51a051b620a64a10fe4df865547370.deb
+Size: 19446
+MD5sum: 236665b1fa010e60e28781873ece4769
+SHA1: 90a3d82cabb53081673a69beef2a218fbdaa62e5
+SHA256: c6002029a37b833ea5f3188eff1bb2bf2e51a051b620a64a10fe4df865547370
+SHA512: 16ca51d0d8debcd51ba12fb3327cadababa615fae68afc65a5d27c8712a9abee86c084d8f2a6974dcd799c954d73b3a6988947a4d0dd261c7f3317199579e92f
+Description: 自定义锁屏时间/日期位置与大小
+Name: 锁屏时间自定义
+Author: 航
+
+Package: com.hang.xmly
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.xmly_1.0_iphoneos-arm64_6dd6e2ba0e046331e2409fc2e1477e9acba38bea6abf5cf4d4dc0c2b94b9b568.deb
+Size: 11008
+MD5sum: ab510f03112fad43863904dab5112218
+SHA1: f853ac55710e078d2a8a73e51eb8a81e61ad3f08
+SHA256: 6dd6e2ba0e046331e2409fc2e1477e9acba38bea6abf5cf4d4dc0c2b94b9b568
+SHA512: 130047b294ba485e607aefe7b11d55e65baa6627aa11b76e3ab0441dcbc131a8d15b4afc8bc11c11574c967d51c793a738ac302aa24309cfa6b3fa9f3af13cb4
+Description: 测试版本；9.4.86
+Name: 航の喜马拉雅去广告
+Author: 航
+
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.lclrc.hammerit_1.7.1_iphoneos-arm64_541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+SHA512: 77a5790ec5dbe52a86abea9dbe41cf64d0f9e17f498eb7b0128c59f42ab7407c56b778d1bdaaaa0253bb6dd04a55bd7dca3ac8de4378c6f7ebd180ca3bec8cac
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
+Package: com.netskao.injectipa
+Architecture: iphoneos-arm64
+Version: 1.5-7
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 1688
+Depends: firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.netskao.injectipa_1.5-7_iphoneos-arm64_55f5618a6e04287808a903d59049c6d38b6af37030ae453655e9ba715923b13e.deb
+Size: 417302
+MD5sum: 7cb3a33c50d36b35787cb7fd797dc9b2
+SHA1: 549f9948d6d941a617a833b9a65811afcd79106c
+SHA256: 55f5618a6e04287808a903d59049c6d38b6af37030ae453655e9ba715923b13e
+SHA512: 9cc708b41ce913cdf60a9e689d4b9d6aa4a8930fe07c92c9837281560a359dff98a6ae97a04d6f65e14a9ec0a77f68f3f4e7497a3b3ac9d964f30432b7dae3bc
+Description: InjectIPA Tool
+Name: injectipa
+Author: Netskao
+
+Package: com.wkk.lookinloader
+Architecture: iphoneos-arm64
+Version: 1.2.8-2
+Section: 应用程序
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 4332
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: debs/iphoneos-arm64/com.wkk.lookinloader_1.2.8-2_iphoneos-arm64_5ada175421891d9b0b3dc5280fcc74fb780606d0d7dd3a5d09c71da8de769a5d.deb
+Size: 525328
+MD5sum: 7d101251b791ccaf54591979fa575797
+SHA1: 65d3460333e78a3fc2e1cb7f0db6b9c43f279cc3
+SHA256: 5ada175421891d9b0b3dc5280fcc74fb780606d0d7dd3a5d09c71da8de769a5d
+SHA512: 14be055c574e17ff7024594e8edaa2828f450d9e31a838759dce221e265dd91545101bea99405581cf2eb6effe39ec8f9905967191a62c0b53d289b1f4889ef3
+Description: Lookin UI调试工具
+Name: LookinLoader
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
+
+Package: com.wkk.lookinloader
+Architecture: iphoneos-arm64e
+Version: 1.2.8-2
+Section: 应用程序
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 4332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: debs/iphoneos-arm64e/com.wkk.lookinloader_1.2.8-2_iphoneos-arm64e_68abdaf89554354ad589d694d954090bfd8eae7b84abc7cd9b96c5d710db3268.deb
+Size: 531052
+MD5sum: 2f99217a6f7462434c99001d91ee7ce0
+SHA1: 9b95700458f3281f36a8e2164d2b801853b03848
+SHA256: 68abdaf89554354ad589d694d954090bfd8eae7b84abc7cd9b96c5d710db3268
+SHA512: c89b28a21f2be5ea144e5ede9cdbe8ebfb0394a2da3d8f80ede5680142efa1c4e2895e79c5bbac38321b23617adaa341e67bd7f419580959ee47c4d0a3fb6acd
+Description: Lookin UI调试工具
+Name: LookinLoader
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://s1.imagehub.cc/images/2025/12/31/5db59b1666f1a481073f8036079dccc3.jpeg
+
+Package: com.yourcompany.color
+Architecture: iphoneos-arm64
+Version: 0.0.1-15+debug
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.yourcompany.color_0.0.1-15+debug_iphoneos-arm64_e4555207e8c9b48623dcff70d2b72db5b85a40cdc88d5f09eec563527903ae48.deb
+Size: 4932
+MD5sum: 11afea9bee9176ac608334b7dc75e7c9
+SHA1: ed49c649b5a67858b7e1086196c4871761b7c82d
+SHA256: e4555207e8c9b48623dcff70d2b72db5b85a40cdc88d5f09eec563527903ae48
+SHA512: ce782171b7cd4c618dfb3539acbab454affe9f0d4c60823dd9dc41f41d2f734360ca9ec2bc9cc7bd7b258706766b514da63f8ab3c7864834f1559fd48343b6ae
+Description: 很棒的取色器!
+Name: 航的取色器
+Author: 航
+
+Package: ovh.exerhythm.cardculator
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: Tweaks
+Maintainer: sourcelocation
+Installed-Size: 920
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Filename: debs/iphoneos-arm64/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64_0aebcd9471bf40ebdea949caad037dea2c6162b3e65ac040d3d52c32dc7700ff.deb
+Size: 122328
+MD5sum: e79d872b79d0f87aa95437c00edd7845
+SHA1: a4b4418a3e6a969ebd420feaba709f1b927aa5ae
+SHA256: 0aebcd9471bf40ebdea949caad037dea2c6162b3e65ac040d3d52c32dc7700ff
+SHA512: 489e6f50545147f56e1a6f358d62c8f31c9e1af25aedc103469843ff6738864316a47fc8b46d8c43f3e2a23dd5ec93750b536dd5d8ef6a2eb137a7ff6aae73d1
+Description: Calculator, but smaller
+Author: sourcelocation
+Name: Cardculator
