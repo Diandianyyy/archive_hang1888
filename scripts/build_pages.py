@@ -32,7 +32,7 @@ count = len(re.findall(r'^Package:', index, flags=re.M))
     '<meta name="viewport" content="width=device-width, initial-scale=1">'
     '<title>航源备份</title><h1>航源备份</h1>'
     f'<p>已备份 {count} 个安装包。将当前页面地址添加到包管理器即可使用。</p>'
-    '<p>设置为每小时检查更新（GitHub 调度可能延迟），保留已备份的历史版本。</p>'
+    '<p>设置为每 6 小时检查更新（GitHub 调度可能延迟），保留已备份的历史版本。</p>'
     f'<p><a href="https://github.com/{html.escape(repository)}">查看备份仓库</a></p></html>',
     encoding='utf-8')
 print(f'Published index for {count} packages at commit {commit}')

@@ -17,17 +17,24 @@ import tempfile
 import time
 from urllib.parse import quote, urljoin
 from urllib.request import Request, urlopen
+from urllib.error import HTTPError
+from email.utils import parsedate_to_datetime
 
 
 USER_AGENT = "hang1888-archive-sync/1.0"
 INDEX_CANDIDATES = ("Packages.xz", "Packages.bz2", "Packages.gz", "Packages")
+REQUEST_INTERVAL = max(0, float(os.environ.get("REQUEST_INTERVAL", "3")))
+_last_request = 0.0
 
 
 def fetch(url: str, destination: Path | None = None) -> bytes | None:
+    global _last_request
     encoded_url = quote(url, safe=":/?&=%")
     last_error: Exception | None = None
-    for attempt in range(3):
+    for attempt in range(5):
         try:
+            time.sleep(max(0, REQUEST_INTERVAL - (time.monotonic() - _last_request)))
+            _last_request = time.monotonic()
             request = Request(encoded_url, headers={"User-Agent": USER_AGENT})
             with urlopen(request, timeout=120) as response:
                 if destination is None:
@@ -35,10 +42,31 @@ def fetch(url: str, destination: Path | None = None) -> bytes | None:
                 with destination.open("wb") as output:
                     shutil.copyfileobj(response, output, length=1024 * 1024)
                 return None
+        except HTTPError as error:
+            last_error = error
+            if error.code in (404, 410):
+                break
+            if error.code not in (429, 500, 502, 503, 504):
+                raise
+            if attempt < 4:
+                delay = 60 * (2 ** attempt)
+                retry_after = error.headers.get("Retry-After")
+                if retry_after:
+                    try:
+                        delay = max(delay, float(retry_after))
+                    except ValueError:
+                        delay = max(delay, parsedate_to_datetime(retry_after).timestamp() - time.time())
+                reset = error.headers.get("X-RateLimit-Reset")
+                if reset and reset.isdigit():
+                    delay = max(delay, int(reset) - time.time() + 1)
+                if delay > 7200:
+                    raise RuntimeError("Server requests a wait longer than two hours; retry next scheduled run") from error
+                print(f"HTTP {error.code}; waiting {delay:.0f}s before retry", flush=True)
+                time.sleep(delay)
         except Exception as error:  # Network errors vary by Python/OpenSSL version.
             last_error = error
-            if attempt < 2:
-                time.sleep(2 ** attempt)
+            if attempt < 4:
+                time.sleep(5 * (2 ** attempt))
     raise RuntimeError(f"Failed to download {url}: {last_error}")
 
 

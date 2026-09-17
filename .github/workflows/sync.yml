@@ -8,7 +8,7 @@ on:
         required: false
         default: "100"
   schedule:
-    - cron: "37 * * * *"
+    - cron: "37 */6 * * *"
 
 permissions:
   contents: write
@@ -29,10 +29,14 @@ jobs:
     env:
       SOURCE_URL: https://hang1888.github.io/
       MAX_DOWNLOADS: ${{ inputs.max_downloads || '100' }}
+      REQUEST_INTERVAL: "3"
+      GITHUB_TOKEN: ${{ secrets.MY_GITHUB_PAT || github.token }}
 
     steps:
       - name: Check out backup repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MY_GITHUB_PAT || github.token }}
 
       - name: Install repository tools
         run: |
