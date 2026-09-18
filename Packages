@@ -833,6 +833,23 @@ Description: QQ在线模拟，18系列需要正式上线才生效，双指捏合
 Name: QQ设备模拟
 Author: 航
 
+Package: com.hang.qqzaixian
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.qqzaixian_1.0_iphoneos-arm64_c1a03203a6db2fd5118e79151196f8dbc79c5c24d5b81b79be0bb997adcaf3a5.deb
+Size: 28912
+MD5sum: 488f7a0f196d98c8c89b36dd1210f754
+SHA1: 6a0a3c095e366db050a5566fc07199633e5b0fe8
+SHA256: c1a03203a6db2fd5118e79151196f8dbc79c5c24d5b81b79be0bb997adcaf3a5
+SHA512: 1f71503c81298b652287989a4051dbb0f394181610b16338525b3717bf722b8050d70215a53762b0159e15f365bf7ee9b516c4b76bab1bfd836df875567cac82
+Description: 双指捏合
+Name: QQ设备模拟
+Author: 航
+
 Package: com.hang.sgsrf
 Architecture: iphoneos-arm64
 Version: 1.0
