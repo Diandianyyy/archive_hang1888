@@ -100,6 +100,23 @@ Description: dyyy魔改版
 Name: 抖音Pro
 Author: 航
 
+Package: com.hang.douyinclockdock
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1228
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.hang.douyinclockdock_1.1_iphoneos-arm64e_325aad878c0e8b8a6f0ffbfd206bc6403f348573e3927ed73fc97144f8443fd7.deb
+Size: 319924
+MD5sum: 58d871211d1a0a0038d0e00f8088382f
+SHA1: b955d6b967f804dd72ecbc472b8057b3b5003859
+SHA256: 325aad878c0e8b8a6f0ffbfd206bc6403f348573e3927ed73fc97144f8443fd7
+SHA512: 9f76619d0e2026f610b8bd15e2294ba60fff777ef12932569ad5ed067fd87815ab51a0e6cd1e673ade27597350dfd72755fff6e34f99e91da3d45863e45513f6
+Description: dyyy魔改版
+Name: 抖音Pro
+Author: 航
+
 Package: com.hang.jxedtad
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -852,6 +869,23 @@ SHA256: c0fe4e1531cf5d67b9fe7ac256df548fc75f4bb4486b30dc0fcc59cf07316796
 SHA512: bd189be1bb340caaf918b75238e7d9822f714ed0f91530f9bae484a1f21a2ce05ac8fd64bf0ef513890977dd68ff495d4e4dd52475155aad3a6a981764da1f54
 Description: 最新版本测试
 Name: 航の快题词去广告
+Author: 航
+
+Package: com.hang.plugingroup
+Architecture: iphoneos-arm64
+Version: 3.6
+Section: 微信
+Maintainer: 航
+Installed-Size: 3172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.plugingroup_3.6_iphoneos-arm64_25f0c81f81025b6c538330b31e81d15dd1c75a787319331180d8b02c64dc905c.deb
+Size: 1056672
+MD5sum: 3bad212ee435ca74760eefd88e3dfee7
+SHA1: 8e8634633bbfd4d7a96216ea533560352c608529
+SHA256: 25f0c81f81025b6c538330b31e81d15dd1c75a787319331180d8b02c64dc905c
+SHA512: 36bcfb58fb33fffbb7657a4f9775668babc06f1afd060419bb4339ee7a32c371a6aa83955fb7105a04f6001e0febe638971a4c671c2208e484671e2e59d72bc8
+Description: 双指捏合。
+Name: 微信插件收纳
 Author: 航
 
 Package: com.hang.qqzaixian
