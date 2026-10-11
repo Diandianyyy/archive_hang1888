@@ -84,6 +84,23 @@ Name: 航の中国移动去广告
 Author: 航
 
 Package: com.hang.douyinclockdock
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 2760
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.hang.douyinclockdock_1.2_iphoneos-arm64_ca404f1749692fdbaf64a2bf474bae38650c4038dda46bf0683bcbbd3d4f0167.deb
+Size: 611848
+MD5sum: 13d452026fbb59388001bf1bf9f78c8f
+SHA1: 14e65bd9b3d433a992eebb628c4e354bd11fcbf0
+SHA256: ca404f1749692fdbaf64a2bf474bae38650c4038dda46bf0683bcbbd3d4f0167
+SHA512: 9723c6b422c25a78981aeaf30645da4992b5a0b752f1ee59741fb335293494f118677f4a68c98a302c15dd6900884e64530c5b8404fec0a0a7444482add6a939
+Description: dyyy魔改版
+Name: 抖音Pro
+Author: 航
+
+Package: com.hang.douyinclockdock
 Architecture: iphoneos-arm64e
 Version: 0.0.64
 Section: Tweaks
@@ -113,6 +130,23 @@ MD5sum: 58d871211d1a0a0038d0e00f8088382f
 SHA1: b955d6b967f804dd72ecbc472b8057b3b5003859
 SHA256: 325aad878c0e8b8a6f0ffbfd206bc6403f348573e3927ed73fc97144f8443fd7
 SHA512: 9f76619d0e2026f610b8bd15e2294ba60fff777ef12932569ad5ed067fd87815ab51a0e6cd1e673ade27597350dfd72755fff6e34f99e91da3d45863e45513f6
+Description: dyyy魔改版
+Name: 抖音Pro
+Author: 航
+
+Package: com.hang.douyinclockdock
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 2760
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.hang.douyinclockdock_1.2_iphoneos-arm64e_053fdea2d97c406066dbb3b8563b0141b0dd8bdf6041f26fb9d033266b0f86ef.deb
+Size: 609892
+MD5sum: 91697a796554e71e4a0d589838076944
+SHA1: 5e111cfd62e0ae9263cff47ad8f24c184b3e6f7b
+SHA256: 053fdea2d97c406066dbb3b8563b0141b0dd8bdf6041f26fb9d033266b0f86ef
+SHA512: 33d204a98fa2b313fe25df8a94ee68cf91728d228c61df16f634ec5eb4b78fa1abf1d3dd27a3ff6cf0c9a82cd03964787485af4a27c1cbf8631043c30595f28c
 Description: dyyy魔改版
 Name: 抖音Pro
 Author: 航
