@@ -15,6 +15,40 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Name: insulation
 Author: be-huge & doimty
 
+Package: com.doimty.fiona
+Architecture: iphoneos-arm64
+Version: 0.2
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 168
+Depends: firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.doimty.fiona_0.2_iphoneos-arm64_792c871b02c902e8e7a6255f3366f101f75e936bd982c947bb4b26e0be4416f9.deb
+Size: 2964
+MD5sum: 71e159d9a3fba32ac70642a1dbf5ad58
+SHA1: 5dda7589eca88d8b8feef0516efe8826b7ecda65
+SHA256: 792c871b02c902e8e7a6255f3366f101f75e936bd982c947bb4b26e0be4416f9
+SHA512: 14e339423f77eb620c76dad6240136313819e7afd9bc188f9abac1066747f00ad2c99169bab3a10cbd42c21d1dccbbefc3e494b3b58662f9c8b11cbe88138565
+Description: 锁屏时保持 WiFi 连接。无开关，安装即生效；
+Name: Fiona
+Author: doimty
+
+Package: com.doimty.fiona
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 168
+Depends: firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.doimty.fiona_0.2_iphoneos-arm64e_afd456d7672c7f40be99dd5c729a8fcaaeaf8f0a3a42d1d2c9b44b7a999235b7.deb
+Size: 2898
+MD5sum: 565eaf9b65d83989ffb9fadfc75e2af9
+SHA1: bd7a960d3e1e775624e95344e1049c7b0eba0c77
+SHA256: afd456d7672c7f40be99dd5c729a8fcaaeaf8f0a3a42d1d2c9b44b7a999235b7
+SHA512: 34528e68a1c836ccf77dae91665eddc613a4a9396a419798d9f2a25f2c4eb6a0fca46bcd553b72a1ffd31b4967818bf772756ec002a8d240179e91205d1b4e83
+Description: 锁屏时保持 WiFi 连接。无开关，安装即生效；
+Name: Fiona
+Author: doimty
+
 Package: com.hang.365
 Architecture: iphoneos-arm64
 Version: 1.0.1
