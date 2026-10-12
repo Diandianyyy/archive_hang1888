@@ -1009,6 +1009,40 @@ Description: 自定义锁屏时间/日期位置与大小
 Name: 锁屏时间自定义
 Author: 航
 
+Package: com.hang.tubiao
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/iphoneos-arm64/com.hang.tubiao_1.2_iphoneos-arm64_13dbae9eb47015acf77c1901974b14709867ce3c0fe4880443194e0f76846305.deb
+Size: 31308
+MD5sum: e52759fc002191a7e4bf46834d5e833c
+SHA1: c27ecd864b9164612f935d9dc9984584821e131d
+SHA256: 13dbae9eb47015acf77c1901974b14709867ce3c0fe4880443194e0f76846305
+SHA512: dd9c2ae445d2749954f3d6d28d37aa4fc842c18800dcba73a1c5dfbf88acea85aededcb0571a54e60be8f2cb6bb5bc51e378c25cf4b3df07e2da65a973888e7f
+Description: 自定义锁屏时间/日期位置与大小
+Name: 锁屏时间自定义
+Author: 航
+
+Package: com.hang.tubiao
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/iphoneos-arm64e/com.hang.tubiao_1.2_iphoneos-arm64e_c25ef73e75b4e7b54490cc21bc453d47be310d050501cb5a0075b4998c994b28.deb
+Size: 24942
+MD5sum: ccbb5a9464acb8419f2d7b87730268f0
+SHA1: fadf9184a67940b047153ee64e04bcd730ab08f3
+SHA256: c25ef73e75b4e7b54490cc21bc453d47be310d050501cb5a0075b4998c994b28
+SHA512: cc1bddee8b9044c999369619618f7a0c859565a1eb3e95606f4a9b2a7cb78953ccf28d29e4f39fd848643b4a1330376b2356f5e64f172a697bb8d3947ccdbd68
+Description: 自定义锁屏时间/日期位置与大小
+Name: 锁屏时间自定义
+Author: 航
+
 Package: com.hang.xmly
 Architecture: iphoneos-arm64
 Version: 1.0
