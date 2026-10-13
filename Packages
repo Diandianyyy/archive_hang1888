@@ -939,6 +939,40 @@ Description: 最新版本测试
 Name: 航の快题词去广告
 Author: 航
 
+Package: com.hang.noti
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.noti_1.0_iphoneos-arm64_2a2866f3ca710e6260a3a258daad4bb3525915c59d4ce8410e7bf6bc479ed31e.deb
+Size: 14174
+MD5sum: 0116189810a6dce04d367ee9dc23d904
+SHA1: 8d1493b0597c9a62b432aaac07a33bd0a5c1033b
+SHA256: 2a2866f3ca710e6260a3a258daad4bb3525915c59d4ce8410e7bf6bc479ed31e
+SHA512: d09775347b65be73440c0651ac22cc126401ead44c56f35827bc58d2cd55da5a61cbb48ca09a1a9e4a85db9dd856d986b998c8568e1d66fa675fa4c205b634b8
+Description: 双指长按通知取通知中的验证码。
+Name: 通知验证码复制
+Author: 航
+
+Package: com.hang.noti
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.hang.noti_1.0_iphoneos-arm64e_d60570347db3181ba09f0ad22bfbca57c194f8e1c71d78c25b0fe7abaec78f38.deb
+Size: 10634
+MD5sum: 1d55faf5e48c308692d0017b2471dbe1
+SHA1: 572ea710742c86bacfcc7089ff24771959e9b984
+SHA256: d60570347db3181ba09f0ad22bfbca57c194f8e1c71d78c25b0fe7abaec78f38
+SHA512: a53d5970e9568ae8a354ad39d8b5cd005401cdf563115d0b95ea6bfd4f2c8fb5e7f9b7fe883a38331a69f97ff29fb69bc110a6cb9696a13559306383288f6f1a
+Description: 双指长按通知取通知中的验证码。
+Name: 通知验证码复制
+Author: 航
+
 Package: com.hang.plugingroup
 Architecture: iphoneos-arm64
 Version: 3.6
