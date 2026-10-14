@@ -1111,6 +1111,40 @@ Description: 自定义锁屏时间/日期位置与大小
 Name: 锁屏时间自定义
 Author: 航
 
+Package: com.hang.wechatnoads
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 广告
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.wechatnoads_1.1_iphoneos-arm64_b81399b713aaa0d72e09b3c8a2ab1888cad2e7fc494b813d6a76b35eee79f1e5.deb
+Size: 13206
+MD5sum: 888faec261402acbd766f32246435552
+SHA1: 55f7d57dd3a676bbbf826e42b2bc5736dbb11ae4
+SHA256: b81399b713aaa0d72e09b3c8a2ab1888cad2e7fc494b813d6a76b35eee79f1e5
+SHA512: 93cb248ea18e4083244006a08df73504d44240c198e17eb67eaab4435e1e1a86e54d0546ada92fe3b665e9a191cc3c737acf3a9bac3558eddba65c645bf91a0e
+Description: 微信去广告（公众号/朋友圈/小程序/搜索/视频号/订阅号），无开关注入即生效
+Name: 航の微信去广告
+Author: 航
+
+Package: com.hang.wechatnoads
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 广告
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.hang.wechatnoads_1.1_iphoneos-arm64e_b2d1414571407d51eae4e71f71eb464e344e5d5011471ac1b971b8f0c0d624d0.deb
+Size: 13378
+MD5sum: 329e77ed48dd5056e1042aeab94a9662
+SHA1: daf50224a8b134ff41469001d747c0edefe536cf
+SHA256: b2d1414571407d51eae4e71f71eb464e344e5d5011471ac1b971b8f0c0d624d0
+SHA512: 5585861188b3b4a6237ef412f5693409d40c0a80a890bf1c573137d8b75503ef03b31b7dba9549e01211aebc45870fa87c15cbfab4eb985895e9b7251ba1f2d4
+Description: 微信去广告（公众号/朋友圈/小程序/搜索/视频号/订阅号），无开关注入即生效
+Name: 航の微信去广告
+Author: 航
+
 Package: com.hang.xmly
 Architecture: iphoneos-arm64
 Version: 1.0
