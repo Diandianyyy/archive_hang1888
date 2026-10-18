@@ -922,6 +922,40 @@ Description: 感谢kayoko开源，魔改自用
 Name: Kayoko
 Author: 航
 
+Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 580
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.hang.keyboardeffects_1.0_iphoneos-arm64_b6191dc784b4d37d98bc24e5e9703dff7d9b04b0e4f99b061579522efe75d6c7.deb
+Size: 83138
+MD5sum: b58edc6bfdaf0f013531fc22fe6afea3
+SHA1: d847217a68b1f4c8009f010bbb976f4d5afe51b8
+SHA256: b6191dc784b4d37d98bc24e5e9703dff7d9b04b0e4f99b061579522efe75d6c7
+SHA512: 72099e0eb8dbc3754404e5cea19c67de4764a956771438c92c98b868b8cd2024f4dd64c696de63e60cc8054013425a9f1bd4edb1074110f52429161a9aa021eb
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+
+Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 580
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.hang.keyboardeffects_1.0_iphoneos-arm64e_eff17772c68245d513efafdba1cb024bc65f1880d220865df788fff8e86944fa.deb
+Size: 83060
+MD5sum: e351ea82988a0b9c7eb9183a878bfe15
+SHA1: 2f9988f6def478348aa1cfce6fbcda8b31ef22b7
+SHA256: eff17772c68245d513efafdba1cb024bc65f1880d220865df788fff8e86944fa
+SHA512: a20e8b037bf983ebb30dd2b7d831d5389d080f331ccdfa35f56cb1b0584926c63e81559cbd524ba3b0c28676ef622dc5d4970c44270fb444186b4c89a7967041
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+
 Package: com.hang.ktc
 Architecture: iphoneos-arm64
 Version: 1.0.1
