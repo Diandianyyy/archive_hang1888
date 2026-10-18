@@ -940,6 +940,23 @@ Name: 键盘特效
 Author: 航
 
 Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 580
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.hang.keyboardeffects_1.1_iphoneos-arm64_7f1b52559de51e6865b1df3da590efed62090eed021650672b06b332e6640013.deb
+Size: 83236
+MD5sum: 58d228eb82ecfb3d87459bb19d9fc12f
+SHA1: 8972ee080541ce6c466a82d920204542717ffc57
+SHA256: 7f1b52559de51e6865b1df3da590efed62090eed021650672b06b332e6640013
+SHA512: 2bbcbc36f92ae3618960073aa6fbc80fb7e26d76559db0ba595f4141ad3cd60d8bd2359f030f0755f862f8f6e18f2d231c831a026e4167f59259c42b785cc42a
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+
+Package: com.hang.keyboardeffects
 Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
@@ -952,6 +969,23 @@ MD5sum: e351ea82988a0b9c7eb9183a878bfe15
 SHA1: 2f9988f6def478348aa1cfce6fbcda8b31ef22b7
 SHA256: eff17772c68245d513efafdba1cb024bc65f1880d220865df788fff8e86944fa
 SHA512: a20e8b037bf983ebb30dd2b7d831d5389d080f331ccdfa35f56cb1b0584926c63e81559cbd524ba3b0c28676ef622dc5d4970c44270fb444186b4c89a7967041
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+
+Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 580
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.hang.keyboardeffects_1.1_iphoneos-arm64e_5b725517aa8f1a73fb148e19293ca7a7f7377a0b5dac40886a834553147df0ed.deb
+Size: 82996
+MD5sum: 474b02703d6aab60ecc4b7023900b767
+SHA1: bdb6dbe23e10a074c903c34d4bd11d988db79021
+SHA256: 5b725517aa8f1a73fb148e19293ca7a7f7377a0b5dac40886a834553147df0ed
+SHA512: 166a0bc897dff84929d894116f3a2d0d57b86e3f2d9fe94a94bb99acd07bfb50a431db15fb90fd17d8f3effcff1e031318b5b5e2c2d1aea2496ca6193c94f4e4
 Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
 Name: 键盘特效
 Author: 航
