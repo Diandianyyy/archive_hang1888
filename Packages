@@ -543,6 +543,25 @@ Name: Kayoko
 Author: 航
 
 Package: com.hang.kayoko
+Architecture: iphoneos-arm64
+Version: 4.7.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 3152
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64/com.hang.kayoko_4.7.1_iphoneos-arm64_521239aebbb318ea00e62859670d3a6e3f7ec364e9ef94ecfe52cc91f5ccf05e.deb
+Size: 652046
+MD5sum: 87933d6e4f459e10396feac314778aee
+SHA1: 6d59fb0a942bff4c1a60e671df194009cc94606d
+SHA256: 521239aebbb318ea00e62859670d3a6e3f7ec364e9ef94ecfe52cc91f5ccf05e
+SHA512: 073d4552c5d1f42620224ed9089c8c12f87e31fdf75a72e4caa3ea5c236b8ab9b4653f8f0f1b0903a8fb51dfe93338c2b4f49525de4628c160115679185dc0cb
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
 Architecture: iphoneos-arm64e
 Version: 4.4.1
 Section: Tweaks
@@ -937,6 +956,25 @@ MD5sum: 99307b27248362823bbf90ed352a6e3f
 SHA1: b8f35b77f9f4846271a36da3718a33f9fc59f797
 SHA256: 932a9ad2a56797a4980b252e9ea499efd6f5ac480284038859d00ad8f51d3aac
 SHA512: b06d5caab0d9b37d59e2fa0951e1b320e2d162499c82369403585ef907d534556cfe39ee286eff90105ce11a3ab02673977d73790995a70e9b3f3140354147a5
+Description: 感谢kayoko开源，魔改自用
+Name: Kayoko
+Author: 航
+
+Package: com.hang.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.7.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1744
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/iphoneos-arm64e/com.hang.kayoko_4.7.1_iphoneos-arm64e_ee837ea228595796dd8395375af4326578aeee989014e777d92cfc929ab0ccb8.deb
+Size: 476936
+MD5sum: 5f0c6925c71377b96cf14ddd7deeaf0d
+SHA1: f6d2c58599650944b2f8b8cb29aca76f6962964d
+SHA256: ee837ea228595796dd8395375af4326578aeee989014e777d92cfc929ab0ccb8
+SHA512: d59312d907da9dd0168780b1ec0c3b3f5e506fe65f5125826eb7d0a0e20172cb440d4014ff6e263b8f85d553e3de40dfcfd9992433736b0af738871f6accf2c1
 Description: 感谢kayoko开源，魔改自用
 Name: Kayoko
 Author: 航
