@@ -1066,6 +1066,24 @@ Author: 航
 Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.6-no-logs
 
 Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 856
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.hang.keyboardeffects_1.7_iphoneos-arm64_c3a6f379ca5422ee5fc76f0d213d729e49cc193ed20ebfa7a0e3add85dc7a501.deb
+Size: 148970
+MD5sum: 60963a9b20c4a8bbfbc2b29c25bc208b
+SHA1: 10256ffbc844204dd3d6845fa2630f68d3f97529
+SHA256: c3a6f379ca5422ee5fc76f0d213d729e49cc193ed20ebfa7a0e3add85dc7a501
+SHA512: adfc201d6806d5999d8ce188597fa27057e7582897d2411a0a85f2270035e9bcd2020440dbedbaf4253772919191292e9e8b1b8e830e0e38205c912e3d9b2d6f
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.7-ui
+
+Package: com.hang.keyboardeffects
 Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
@@ -1150,6 +1168,24 @@ Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
 Name: 键盘特效
 Author: 航
 Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.6-no-logs
+
+Package: com.hang.keyboardeffects
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 856
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.hang.keyboardeffects_1.7_iphoneos-arm64e_64841a33d1cb53c48d80394f37dad524544c65f57d3e2dcebb6ee594da85419c.deb
+Size: 149118
+MD5sum: a354e4e97195056218ac3a767c20624d
+SHA1: 0ae27ff44d0c9bbf30dd3c0f322778c480d445e9
+SHA256: 64841a33d1cb53c48d80394f37dad524544c65f57d3e2dcebb6ee594da85419c
+SHA512: 282dc254d8b934391ebc18c728d08a0d74062b84f91d23442df58c19aa09eefb76b50f050d6dc0fa5ea4d584d5dc4e02f17642094a05a5ec9e056bf035bfe8b1
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Name: 键盘特效
+Author: 航
+Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.7-ui
 
 Package: com.hang.ktc
 Architecture: iphoneos-arm64
