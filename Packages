@@ -1223,6 +1223,42 @@ Description: 最新版本测试
 Name: 航の快题词去广告
 Author: 航
 
+Package: com.hang.liquiddock
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1012
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64/com.hang.liquiddock_1.0_iphoneos-arm64_1153aa27870b01c4bfaafe1d69e2e1b8f4049a30b613015d73f282a7dd3e7a27.deb
+Size: 497862
+MD5sum: 87044268b703f852d57bfc6333c34038
+SHA1: ededa23e90799fe2072dad13d4820cb07cdece31
+SHA256: 1153aa27870b01c4bfaafe1d69e2e1b8f4049a30b613015d73f282a7dd3e7a27
+SHA512: 459a532edcc1db436a30d2bb73cb083404331768da69a33c868fc93a7bf0c3c9210d7533cccad670ce2ea858b48dbbd2fd44fd8879ed637c21f4172a0e7656b0
+Description: 液态Dock
+Name: 液态Dock
+Author: 航
+Icon: file:///var/jb/usr/share/icons/com.hang.liquiddock.png
+
+Package: com.hang.liquiddock
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 708
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64e/com.hang.liquiddock_1.0_iphoneos-arm64e_7d755e0e2cdf903bbd9a5b8c38ac8509459bf1f9c682aba3d892d4a9e79cfa95.deb
+Size: 479734
+MD5sum: 25ce9a4780f2e347faacf32c6f323ef6
+SHA1: 53cec1f9c4610d7ca81f718867b030b3df5bd011
+SHA256: 7d755e0e2cdf903bbd9a5b8c38ac8509459bf1f9c682aba3d892d4a9e79cfa95
+SHA512: 9d8611135e4ca6bb5697811ca4495e72f50d43b6a7a9c032289ebbc3652c0e60c2387e7a52165a9b78c389b261e5c19d3befcafb7f3b061f89b6dd816890886e
+Description: 液态Dock
+Name: 液态Dock
+Author: 航
+Icon: file:///usr/share/icons/com.hang.liquiddock.png
+
 Package: com.hang.noti
 Architecture: iphoneos-arm64
 Version: 1.0
