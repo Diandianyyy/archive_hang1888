@@ -102,6 +102,25 @@ Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Author: 航
 
+Package: com.hang.ccbackground
+Architecture: iphoneos-arm64
+Version: 1.6
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1000
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.hang.ccbackground_1.6_iphoneos-arm64_164e0352784b102da4b9911bfba29a9a5c00760b186d06f0ad3f7d53ff2d99ae.deb
+Size: 208264
+MD5sum: 4b8ed03df7b1a668a6641cc32b964271
+SHA1: 8d0de02706e53559e858f879c5c03146e7143162
+SHA256: 164e0352784b102da4b9911bfba29a9a5c00760b186d06f0ad3f7d53ff2d99ae
+SHA512: 7e236ab0b576276315b4f0bc49df4a3da4ef94c5b08139c3d3598379734f09908cc8ae97c40993b12cf3d7d07b3b9f234b806229c29bfbe3ea60c7c62382783b
+Description: 控制中心背景
+Name: 控制中心背景自定义
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Author: 航
+
 Package: com.hang.cmccad
 Architecture: iphoneos-arm64
 Version: 1.0
