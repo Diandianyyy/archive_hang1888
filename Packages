@@ -1242,6 +1242,24 @@ Author: 航
 Icon: file:///var/jb/usr/share/icons/com.hang.liquiddock.png
 
 Package: com.hang.liquiddock
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64/com.hang.liquiddock_1.1_iphoneos-arm64_0520fcf94c53d3bea232b23a8218149886e9e79bfbf9f60bdc5643f7adb8d2ed.deb
+Size: 495396
+MD5sum: ff47a20d621a9f5c5249373af3b04ab8
+SHA1: 941ec1f53048c725f03d24659dd64a1726fea204
+SHA256: 0520fcf94c53d3bea232b23a8218149886e9e79bfbf9f60bdc5643f7adb8d2ed
+SHA512: 27055fef76649a2133944ccb15704b1190fba1fa34aef3909b651a6ed17c3cb455ce9e811f7de7808c7d717b996a6950df7b020c38e12c0db202dcbb17ce162b
+Description: 液态Dock
+Name: 液态Dock
+Author: 航
+Icon: file:///var/jb/usr/share/icons/com.hang.liquiddock.png
+
+Package: com.hang.liquiddock
 Architecture: iphoneos-arm64e
 Version: 1.0
 Section: Tweaks
@@ -1254,6 +1272,24 @@ MD5sum: 25ce9a4780f2e347faacf32c6f323ef6
 SHA1: 53cec1f9c4610d7ca81f718867b030b3df5bd011
 SHA256: 7d755e0e2cdf903bbd9a5b8c38ac8509459bf1f9c682aba3d892d4a9e79cfa95
 SHA512: 9d8611135e4ca6bb5697811ca4495e72f50d43b6a7a9c032289ebbc3652c0e60c2387e7a52165a9b78c389b261e5c19d3befcafb7f3b061f89b6dd816890886e
+Description: 液态Dock
+Name: 液态Dock
+Author: 航
+Icon: file:///usr/share/icons/com.hang.liquiddock.png
+
+Package: com.hang.liquiddock
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64e/com.hang.liquiddock_1.1_iphoneos-arm64e_fe51f6116a3eaf27261502cb6c5c5d2649450ce743ff01cb61f7908522951b8d.deb
+Size: 477460
+MD5sum: ea6f08e40cd22fc7947801160f6906f3
+SHA1: 145009a50058db691616ce37192b34cf3a70251f
+SHA256: fe51f6116a3eaf27261502cb6c5c5d2649450ce743ff01cb61f7908522951b8d
+SHA512: bfec2c170d3c5e22eb55062ba691b52006eafcdd2b224d42e679d9841ce0ce7a0263f0df74082b6b6e12f9ea0ff32bb5762c5049e47aa7d69d19b3e307ce73d6
 Description: 液态Dock
 Name: 液态Dock
 Author: 航
