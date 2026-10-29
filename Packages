@@ -223,6 +223,40 @@ Description: dyyy魔改版
 Name: 抖音Pro
 Author: 航
 
+Package: com.hang.douyinsearchfix
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.hang.douyinsearchfix_1.0_iphoneos-arm64_d2fadcd9b023e9f5c5ae5c716de7857dba5a19032817cb05e788c581125b7817.deb
+Size: 8480
+MD5sum: db1dd07146f20f6b9a78547d97a577cc
+SHA1: b78b1e338021caf454a74ad896089c55b52e26e2
+SHA256: d2fadcd9b023e9f5c5ae5c716de7857dba5a19032817cb05e788c581125b7817
+SHA512: 78c0b70ab988a727e71195429bab08f8e3004161fe3543f08a5d3668492aea7e8c1ded413d37ddf9cabff7760980158647c986ea5c619e8d9cf3fd829b2a7d82
+Description: 抖音搜索下方禁止猜你想看刷新。
+Name: 抖音搜索禁止刷新
+Author: 航
+
+Package: com.hang.douyinsearchfix
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.hang.douyinsearchfix_1.0_iphoneos-arm64e_6a1296c884edf6d7c14308af25dad047826d26f6126f5d6d606b844a6ce59d06.deb
+Size: 8428
+MD5sum: 726018c901c44285ad72e064a6641235
+SHA1: 5c2b9743490cee58ec89a70c3d06a8865b830f96
+SHA256: 6a1296c884edf6d7c14308af25dad047826d26f6126f5d6d606b844a6ce59d06
+SHA512: 910a113415cda62d23dc12f41f72866478589e44e956db67cb9bccb14d9255892da58fd3758dbf22617a56e44f683400e9ada42a39b81ceb5df80f513220549d
+Description: 抖音搜索下方禁止猜你想看刷新。
+Name: 抖音搜索禁止刷新
+Author: 航
+
 Package: com.hang.jxedtad
 Architecture: iphoneos-arm64
 Version: 1.0
