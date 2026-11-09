@@ -1397,6 +1397,23 @@ Description: 双指捏合。
 Name: 微信插件收纳
 Author: 航
 
+Package: com.hang.qlkaimenadblock
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64e/com.hang.qlkaimenadblock_1.0.2_iphoneos-arm64e_7e50399cee5a48e2f297f30426db6342d8ba7304da53e7dfebce5d8fdbe1e29f.deb
+Size: 9976
+MD5sum: 8c1040d679831454bd0884c731f76bc6
+SHA1: 6dc5c035f04943a5bbdba4cb80e73d060f4bf62b
+SHA256: 7e50399cee5a48e2f297f30426db6342d8ba7304da53e7dfebce5d8fdbe1e29f
+SHA512: 98889074b4f1cc2c1c3eaa41ba78baf9d2f6671395a7c12127643b63ac36294a7f83ea60b549907b5dffaa425fc45a19f26a81885373725e873b6cb7400a3ca1
+Description: 测试版本；去除开屏/插屏/激励/信息流/顶推悬浮广告
+Name: 航の亲邻去广告
+Author: 航
+
 Package: com.hang.qqzaixian
 Architecture: iphoneos-arm64
 Version: 1.0
