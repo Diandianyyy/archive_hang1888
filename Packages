@@ -274,6 +274,40 @@ Description: 问题反馈请联系 QQ：2497314817。仅用于分类占位，不
 Name: 问题反馈Q2497314817
 Author: 航
 
+Package: com.hang.gdqj
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.hang.gdqj_1.0_iphoneos-arm64_05800a67f4dbabe9a0f5e6384971d3bd47b07ae95ca66e5b2204d281d1f9784a.deb
+Size: 19126
+MD5sum: c4d09d0c463cb1e36505a3353d020038
+SHA1: 7a7b19f8ecbe444a42d11f86bd9e55e0b6bb0e58
+SHA256: 05800a67f4dbabe9a0f5e6384971d3bd47b07ae95ca66e5b2204d281d1f9784a
+SHA512: a2a392074e0d6df8ffc00c895d3fc99e0eafd7034e59a510b5e1a0aec26eb2e91beb677d8011c31c5d0433e3027508837534637cd5019ed171dfb10da8807b96
+Description: 测试版本；17.03，去开屏 + 去弹窗广告 + 低栏长按设置
+Name: 航の缺德地图净化
+Author: 航
+
+Package: com.hang.gdqj
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: 航
+Installed-Size: 112
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.hang.gdqj_1.0_iphoneos-arm64e_5a9109ec5666c125a3038d4c6207d4e2e1526e4cec1d7d80004fa392f3a93099.deb
+Size: 19052
+MD5sum: 7f28086f8d27bcffad2c5e2e79b6bdc1
+SHA1: 477a5a62a169691dcd6c9781cba1ed3c07956fb7
+SHA256: 5a9109ec5666c125a3038d4c6207d4e2e1526e4cec1d7d80004fa392f3a93099
+SHA512: 735d523f265cd09f0aafcdf6c4d8b3d77bd66a3ab068e7450bc0ce2d83ff4df05d109a75de2ffe71dc840d8897db8d79139ae0b78ee1b1d2ef59a0f0b24b771d
+Description: 测试版本；17.03，去开屏 + 去弹窗广告 + 低栏长按设置
+Name: 航の缺德地图净化
+Author: 航
+
 Package: com.hang.jxedtad
 Architecture: iphoneos-arm64
 Version: 1.0
